@@ -1,6 +1,5 @@
-- 🔭 I’m currently working on ruby projects, but currently looking for typescript and blockchain and AI related projects to contribute.
+- 🔭 I’m currently looking for a new project.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mico&layout=compact)
 
 <!--
 **mico/mico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
